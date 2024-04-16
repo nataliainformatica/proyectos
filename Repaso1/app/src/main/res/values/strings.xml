@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Repaso1</string>
+    <string name="los_mejor_cocktails">Los mejor Cocktails</string>
+    <string name="nombre">Nombre</string>
+    <string name="SALIR">SALIR</string>
+    <string name="SORPRÉNDEME">SORPRÉNDEME</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="Instructions">Instructions</string>
+    <string name="Surprise">SURPRISE</string>
+</resources>
